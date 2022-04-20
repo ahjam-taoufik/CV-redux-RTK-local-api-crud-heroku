@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "name": "jamal kamal",
+      "email": "kamal@gmail.com",
+      "contact": "021584592",
+      "id": 5
+    },
+    {
+      "name": "said",
+      "email": "said@gmail.com",
+      "contact": "9876543210",
+      "id": 6
+    },
+    {
+      "name": "taoufik ahjam",
+      "email": "elmassira1@gmail.com",
+      "contact": "212000000000",
+      "id": 7
+    }
+  ]
+}
